@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">C196</string>
+    <string name="progress_spinner">ProgressSpinner</string>
+    <string-array name="progress_list">
+        <item>In Progress</item>
+        <item>Completed</item>
+        <item>Dropped</item>
+        <item>Plan to Take</item>
+    </string-array>
+    <string name="type_spinner">TypeSpinner</string>
+    <string name="delete_term">Delete Term</string>
+    <string name="share">Share</string>
+    <string name="delete_class">Delete Class</string>
+    <string name="notify_start">Notify Start</string>
+    <string name="notify_end">Notify End</string>
+    <string name="channel_name">Tracker</string>
+    <string name="channel_description">Notifications for start/end times</string>
+    <string name="delete_assessment">Delete Assessment</string>
+    <string-array name="type_list">
+        <item>Objective</item>
+        <item>Performance</item>
+    </string-array>
+</resources>
